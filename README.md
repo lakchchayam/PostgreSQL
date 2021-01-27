@@ -115,4 +115,4 @@ POSTGRES is free and open-source software which means you will never need to pay
 PostgreSQL can run dynamic websites and web apps as an option to the LAMP stack.
 Its supports JSON data.
 Postgres is not owned by one organization. So, it has had trouble getting its name out there despite being fully featured and comparable to other DBMS systems
-PostgreSQL is widely used in the Financial Industry, Government GIS data, Manufacturing, Web technology, and NoSQL and for Scientific Data collection works
+PostgreSQL is widely used in the Financial Industry, Government GIS data, Manufacturing, Web technology, and NoSQL and for Scientific Data collection work
