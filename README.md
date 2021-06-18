@@ -1,8 +1,11 @@
-# POSTGREsql
+# PostgreSql
 Learning Postgre Sql
 
 PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that 
 has earned it a strong reputation for reliability, feature robustness, and performance.
+
+![image](https://user-images.githubusercontent.com/49754403/122557912-063a0880-d05b-11eb-98b9-e72d0497ded2.png)
+
 
 
 
