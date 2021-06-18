@@ -1,4 +1,4 @@
-# PostgreSql
+# PostgreSQL
 Learning Postgre Sql
 
 PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that 
